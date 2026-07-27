@@ -148,3 +148,11 @@
 -   Frequency of review (annually or bi-annually).
 
 -   Approval process for updates (Board/ICT Committee).
+
+## **16. Change Management**
+
+-   Framework for managing changes to ICT systems and projects.
+
+-   Roles of Change Advisory Board (CAB) and Implementation Team.
+
+-   Process for categorization, approval, testing, and deployment.
