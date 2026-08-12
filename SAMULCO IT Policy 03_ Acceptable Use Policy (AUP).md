@@ -353,7 +353,7 @@ immediate disciplinary action:
 
 ### **5.2 Activities Requiring Special Authorization**
 
-The following activities require prior approval from the ICT Manager or
+The following activities require prior approval from the Chief ICT Officer or
 designated authority:
 
 #### **5.2.1 Software Installation**
@@ -590,7 +590,7 @@ following purposes:
 
 -   **IT Help Desk:** Report technical issues and suspected violations
 
--   **ICT Manager:** Report policy violations and security incidents
+-   **Chief ICT Officer:** Report policy violations and security incidents
 
 -   **Human Resources:** Report employee conduct issues
 
@@ -754,5 +754,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Chief Executive Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

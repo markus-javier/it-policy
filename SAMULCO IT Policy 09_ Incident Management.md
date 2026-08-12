@@ -325,7 +325,7 @@ A security incident is any event that indicates a potential or actual:
 
 -   **Alternate Methods:**
 
-    -   Direct contact to ICT Manager or security team
+    -   Direct contact to Chief ICT Officer or security team
 
     -   Anonymous reporting hotline or web form
 
@@ -355,7 +355,7 @@ A security incident is any event that indicates a potential or actual:
 
 -   **Primary:** Security Analyst or On-Duty Security Officer
 
--   **Backup:** ICT Manager or designated security lead
+-   **Backup:** Chief ICT Officer or designated security lead
 
 -   **Support:** System administrators and technical specialists
 
@@ -463,7 +463,7 @@ A security incident is any event that indicates a potential or actual:
 
 **Incident Commander (IC):**
 
--   **Primary:** ICT Manager
+-   **Primary:** Chief ICT Officer
 
 -   **Backup:** Senior IT Specialist or designated security lead
 
@@ -960,7 +960,7 @@ A security incident is any event that indicates a potential or actual:
 
 -   User support and basic remediation activities
 
-**Level 2 - Senior Security Analyst/ICT Manager:**
+**Level 2 - Senior Security Analyst/Chief ICT Officer:**
 
 -   Complex incidents requiring advanced analysis
 
@@ -1621,5 +1621,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Chief Executive Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

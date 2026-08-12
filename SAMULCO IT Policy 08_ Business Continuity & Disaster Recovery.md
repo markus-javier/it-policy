@@ -1225,5 +1225,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Business Continuity Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

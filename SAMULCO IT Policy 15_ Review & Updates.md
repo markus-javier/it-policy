@@ -373,10 +373,10 @@ This policy applies to all:
 
 **Approval Authority Levels:**
 
--   **Administrative Changes:** ICT Manager approval for minor
+-   **Administrative Changes:** Chief ICT Officer approval for minor
     > corrections and clarifications
 
--   **Minor Policy Changes:** Department head and ICT Manager approval
+-   **Minor Policy Changes:** Department head and Chief ICT Officer approval
 
 -   **Significant Changes:** General Manager approval for substantial
     > policy modifications
@@ -659,7 +659,7 @@ This policy applies to all:
 
 **Administrative Changes:**
 
--   **Authority:** ICT Manager
+-   **Authority:** Chief ICT Officer
 
 -   **Examples:** Typographical corrections, formatting updates, contact
     > information changes
@@ -672,7 +672,7 @@ This policy applies to all:
 
 **Minor Policy Changes:**
 
--   **Authority:** Department Head + ICT Manager
+-   **Authority:** Department Head + Chief ICT Officer
 
 -   **Examples:** Clarifications, minor procedure updates,
     > non-substantive changes
@@ -686,7 +686,7 @@ This policy applies to all:
 
 **Significant Policy Changes:**
 
--   **Authority:** General Manager + Department Head + ICT Manager
+-   **Authority:** General Manager + Department Head + Chief ICT Officer
 
 -   **Examples:** New procedures, significant content changes,
     > technology requirement updates
@@ -2548,5 +2548,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Chief Executive Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

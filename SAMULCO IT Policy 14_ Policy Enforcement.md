@@ -155,7 +155,7 @@ This policy applies to all:
 
 -   Monitoring and reporting of enforcement effectiveness
 
-**ICT Manager:**
+**Chief ICT Officer:**
 
 -   Technical policy enforcement and security compliance monitoring
 
@@ -601,7 +601,7 @@ This policy applies to all:
 
 -   **Process:** Automatic or manual suspension of all system access
 
--   **Authority:** MIS Manager or designated security officer
+-   **Authority:** Chief ICT Officer or designated security officer
 
 -   **Duration:** Until investigation completion and management decision
 
@@ -614,7 +614,7 @@ This policy applies to all:
 -   **Process:** Isolation of affected systems from network and
     > resources
 
--   **Authority:** ICT Manager or Senior System Administrator
+-   **Authority:** Chief ICT Officer or Senior System Administrator
 
 -   **Duration:** Until security investigation completion and system
     > remediation
@@ -730,7 +730,7 @@ This policy applies to all:
 
 -   **Department Head:** Alternative for supervisor-related issues
 
--   **ICT Manager:** Direct reporting for IT security violations
+-   **Chief ICT Officer:** Direct reporting for IT security violations
 
 -   **HR Manager:** Human resources violations and employment issues
 
@@ -1810,5 +1810,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Compliance Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

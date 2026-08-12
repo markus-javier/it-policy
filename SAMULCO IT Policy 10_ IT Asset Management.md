@@ -527,7 +527,7 @@ not significantly affect operations.
 
 -   **Under ₱25,000:** Department head approval
 
--   **₱25,000 - ₱100,000:** ICT Manager and Department head approval
+-   **₱25,000 - ₱100,000:** Chief ICT Officer and Department head approval
 
 -   **₱100,000 - ₱500,000:** General Manager approval
 
@@ -1105,7 +1105,7 @@ not significantly affect operations.
 
 -   **Standard Assets:** Department head and user approval
 
--   **Important Assets:** ICT Manager and department head approval
+-   **Important Assets:** Chief ICT Officer and department head approval
 
 -   **Critical Assets:** General Manager and executive team approval
 
@@ -1542,5 +1542,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Asset Manager\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

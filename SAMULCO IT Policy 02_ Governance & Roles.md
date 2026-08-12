@@ -62,7 +62,7 @@ General Manager
 
 ↓
 
-ICT Manager
+Chief ICT Officer
 
 ↓
 
@@ -114,7 +114,7 @@ ICT Department
 
     -   General Manager
 
-    -   ICT Manager
+    -   Chief ICT Officer
 
     -   Branch Manager (rotating membership)
 
@@ -164,7 +164,7 @@ ICT Department
 
 -   **Members:**
 
-    -   ICT Manager
+    -   Chief ICT Officer
 
     -   Department Heads
 
@@ -243,7 +243,7 @@ ICT Department
 
 -   Lead digital transformation initiatives
 
-#### **5.2.2 ICT Manager**
+#### **5.2.2 Chief ICT Officer**
 
 **Primary Responsibilities:**
 
@@ -301,7 +301,7 @@ ICT Department
 
 ### **5.3 IT Team Structure and Roles**
 
-#### **5.3.1 ICT Manager**
+#### **5.3.1 Chief ICT Officer**
 
 As defined in Section 5.2.2 above.
 
@@ -475,7 +475,7 @@ As defined in Section 5.2.2 above.
 
 1.  **Level 1:** IT Specialist resolves routine issues
 
-2.  **Level 2:** ICT Manager addresses complex technical issues
+2.  **Level 2:** Chief ICT Officer addresses complex technical issues
 
 3.  **Level 3:** CEO handles business-critical issues
 
@@ -487,7 +487,7 @@ As defined in Section 5.2.2 above.
 
 1.  **Minor:** IT Specialist handles and reports
 
-2.  **Major:** ICT Manager leads response and escalates
+2.  **Major:** Chief ICT Officer leads response and escalates
 
 3.  **Critical:** CEO leads crisis response
 
@@ -499,7 +499,7 @@ As defined in Section 5.2.2 above.
 
 #### **7.1.1 Monthly Reports**
 
--   **ICT Manager to CEO:** Operational metrics and issues
+-   **Chief ICT Officer to CEO:** Operational metrics and issues
 
 -   **IT Team:** Individual accomplishment reports
 
@@ -614,5 +614,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Chief Executive Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

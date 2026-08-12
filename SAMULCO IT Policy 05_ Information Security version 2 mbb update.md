@@ -475,7 +475,7 @@ documentation:
 
 **Technical Level:**
 
--   ICT Manager: Full system administration with security oversight
+-   Chief ICT Officer: Full system administration with security oversight
 
 -   System Administrators: Infrastructure management and user support
 
@@ -1556,5 +1556,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Chief Executive Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

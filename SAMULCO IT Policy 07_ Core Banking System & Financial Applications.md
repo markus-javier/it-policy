@@ -281,7 +281,7 @@ This policy applies to:
 
 **Technical Roles:**
 
--   **ICT Manager Access:\
+-   **Chief ICT Officer Access:\
     > **
 
     -   Full system administration capabilities
@@ -333,7 +333,7 @@ This policy applies to:
   Accountant   Inquiry Only  Full       Inquiry     Inquiry Only Full Access     Full Access    No Access     Financial
                              Access     Only                                                                  Reports
 
-  ICT Manager  System Admin  System     System      System Admin System Admin    System Admin   System Admin  All Reports
+  Chief ICT Officer  System Admin  System     System      System Admin System Admin    System Admin   System Admin  All Reports
                              Admin      Admin                                                                 
   ---------------------------------------------------------------------------------------------------------------------------
 
@@ -349,7 +349,7 @@ This policy applies to:
 2.  **Manager Approval:** Direct supervisor approves system access
     > requirements
 
-3.  **Security Review:** ICT Manager reviews access request against role
+3.  **Security Review:** Chief ICT Officer reviews access request against role
     > matrix
 
 4.  **Account Creation:** Technical team creates user account with
@@ -717,7 +717,7 @@ This policy applies to:
 
 **Change Advisory Board (CAB):**
 
--   **Chairperson:** ICT Manager or designated technical lead
+-   **Chairperson:** Chief ICT Officer or designated technical lead
 
 -   **Members:** Representatives from affected business units
 
@@ -1297,5 +1297,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Chief Financial Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

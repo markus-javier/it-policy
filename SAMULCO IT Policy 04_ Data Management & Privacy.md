@@ -1060,5 +1060,5 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Data Protection Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ICT Manager\
+Chief ICT Officer\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
