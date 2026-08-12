@@ -89,3 +89,32 @@ For all Normal Changes and major ICT projects, a comprehensive Change Management
 
 - Unauthorized changes (changes implemented without proper categorization, review, and approval) are strictly prohibited and may result in disciplinary action.
 - The ICT Department will maintain an audit trail of all RFCs, approvals, and post-implementation reviews to ensure compliance with this policy and relevant regulatory requirements.
+
+## **7. EFFECTIVE DATE**
+
+This policy becomes effective ten (10) days after approval by the Board
+of Directors and supersedes all previous policy review and update
+policies.
+
+**Document Control:**
+
+-   **Version:** 1.0
+
+-   **Classification:** Internal Use
+
+-   **Distribution:** All SAMULCO Personnel
+
+-   **Review Cycle:** Annual
+
+-   **Next Review Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Approval:**
+
+Board Chairman\
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Chief Executive Officer\
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Chief ICT Officer\
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
